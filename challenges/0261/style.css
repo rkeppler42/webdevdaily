@@ -22,6 +22,7 @@ body {
   padding: 32px 0;
   background-color: #fff;
   border-radius: 22px;
+  box-shadow: 3px 3px 5px #777;
 }
 
 .card header {
